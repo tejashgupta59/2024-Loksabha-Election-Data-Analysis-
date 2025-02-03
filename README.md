@@ -42,4 +42,4 @@ PowerBI, Excel
 
 1) Voters Information
 
-![Img](https://github.com/AnkitRangari/Lok-Sabha-Election-Analysis-/blob/main/Dashboard%20Image/2.png)
+![Img](https://github.com/tejashgupta59/2024-Loksabha-Election-Data-Analysis-/blob/main/DashBoard/2.png)
